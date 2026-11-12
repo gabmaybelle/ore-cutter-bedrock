@@ -1,0 +1,24 @@
+{
+	"format_version": "1.20.10",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "orecutter:iron_ore_from_deepslate_iron_ore_stonecutting"
+		},
+		"tags": [
+			"stonecutter"
+		],
+		"unlock": [
+			{
+				"item": "minecraft:deepslate_iron_ore"
+			}
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:deepslate_iron_ore"
+			}
+		],
+		"result": {
+			"item": "minecraft:iron_ore"
+		}
+	}
+}

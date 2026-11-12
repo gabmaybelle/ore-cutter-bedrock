@@ -1,0 +1,27 @@
+{
+	"format_version": "1.20.10",
+	"minecraft:recipe_shapeless": {
+		"description": {
+			"identifier": "orecutter:deepslate_lapis_ore_from_lapis_block"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"unlock": [
+			{
+				"item": "minecraft:lapis_block"
+			}
+		],
+		"ingredients": [
+			{
+				"item": "minecraft:lapis_block"
+			},
+			{
+				"item": "minecraft:deepslate"
+			}
+		],
+		"result": {
+			"item": "minecraft:deepslate_lapis_ore"
+		}
+	}
+}
